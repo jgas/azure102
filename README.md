@@ -1,2 +1,7 @@
 # azure102
-A repo to fork
+
+Hello from the README
+
+`this is a code block`
+
+and [here](https://example.com) a link
